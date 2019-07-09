@@ -1,0 +1,4 @@
+RENCANA KONTEN
+- Belajar Bootsrap
+- Belajar CodeIgniter
+  - Membuat tampilan admin
