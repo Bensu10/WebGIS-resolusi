@@ -3,3 +3,4 @@ RENCANA KONTEN
 - Belajar MySQL
 - Belajar CodeIgniter
   - Membuat tampilan admin
+ - Belajar Openlayers
