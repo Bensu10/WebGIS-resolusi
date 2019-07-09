@@ -2,3 +2,4 @@ WebGIS RESOLUSI
 - Belajar Pemrograman 3 jam sehari
 - Membuat WebGIS tentang Irigasi
 - Membuat Aplikasi Pencarian Kos
+- Membuat Website Desa Kelahiran
