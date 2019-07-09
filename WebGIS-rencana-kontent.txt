@@ -3,5 +3,7 @@ RENCANA KONTEN
   - Bootstrap 3
 - Belajar MySQL
 - Belajar CodeIgniter
-  - CodeIgniter 4
- - Membuat tampilan admin
+  - Membuat tampilan admin
+- Belajar Openlayers
+- Belajar Cartography dan Pemetaan
+
